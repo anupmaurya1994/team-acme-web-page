@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/team-acme-web-page/static/css/main.5f1a5cd1.css",
-    "main.js": "/team-acme-web-page/static/js/main.82adf1e2.js",
+    "main.js": "/team-acme-web-page/static/js/main.071132cd.js",
     "static/js/453.fee4f585.chunk.js": "/team-acme-web-page/static/js/453.fee4f585.chunk.js",
     "static/media/Team-Acme-Classic-Vehicle-Glass-repair 1.png": "/team-acme-web-page/static/media/Team-Acme-Classic-Vehicle-Glass-repair 1.71089ba67371e336826d.png",
     "static/media/fleet5.png": "/team-acme-web-page/static/media/fleet5.74a75286dbac82a40296.png",
@@ -120,11 +120,11 @@
     "static/media/fa-v4compatibility.woff2": "/team-acme-web-page/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/team-acme-web-page/index.html",
     "main.5f1a5cd1.css.map": "/team-acme-web-page/static/css/main.5f1a5cd1.css.map",
-    "main.82adf1e2.js.map": "/team-acme-web-page/static/js/main.82adf1e2.js.map",
+    "main.071132cd.js.map": "/team-acme-web-page/static/js/main.071132cd.js.map",
     "453.fee4f585.chunk.js.map": "/team-acme-web-page/static/js/453.fee4f585.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f1a5cd1.css",
-    "static/js/main.82adf1e2.js"
+    "static/js/main.071132cd.js"
   ]
 }
